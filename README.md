@@ -24,6 +24,8 @@ The 14-day challenge focuses on:
 ## Repository Structure
 - Day-01/ → Platform Setup & First Steps
 - Day-02/ → Apache Spark Fundamentals
+- Day-03/ → PySpark Transformations Deep Dive
+
 
 ## Dataset
 E-commerce Behavior Dataset (Kaggle)  
