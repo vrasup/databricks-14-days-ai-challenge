@@ -25,6 +25,7 @@ The 14-day challenge focuses on:
 - Day-01/ → Platform Setup & First Steps
 - Day-02/ → Apache Spark Fundamentals
 - Day-03/ → PySpark Transformations Deep Dive
+- Day-04/ → Delta Lake Introduction
 
 
 ## Dataset
