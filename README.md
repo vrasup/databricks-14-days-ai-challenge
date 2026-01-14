@@ -27,6 +27,7 @@ The 14-day challenge focuses on:
 - Day-03/ → PySpark Transformations Deep Dive
 - Day-04/ → Delta Lake Introduction
 - Day-05/ → Delta Lake Advanced
+- Day-06/ → Medallion Architecture
 
 
 ## Dataset
