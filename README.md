@@ -28,7 +28,8 @@ The 14-day challenge focuses on:
 - Day-04/ → Delta Lake Introduction
 - Day-05/ → Delta Lake Advanced
 - Day-06/ → Medallion Architecture
-- Day-07/ → Workflows & Job Orchestration 
+- Day-07/ → Workflows & Job Orchestration
+- Day-08/ → Unity Catalog Governance 
 
 
 ## Dataset
