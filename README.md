@@ -32,6 +32,7 @@ The 14-day challenge focuses on:
 - Day-08/ → Unity Catalog Governance 
 - Day-09/ → SQL Analytics & Dashboards
 - Day-10/ → Performance Optimization
+- Day-11/ → Statistical Analysis & ML Prep
 
 ## Dataset
 E-commerce Behavior Dataset (Kaggle)  
