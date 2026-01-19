@@ -31,6 +31,7 @@ The 14-day challenge focuses on:
 - Day-07/ → Workflows & Job Orchestration
 - Day-08/ → Unity Catalog Governance 
 - Day-09/ → SQL Analytics & Dashboards
+- Day-10/ → Performance Optimization
 
 ## Dataset
 E-commerce Behavior Dataset (Kaggle)  
