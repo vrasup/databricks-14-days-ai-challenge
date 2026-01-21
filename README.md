@@ -33,6 +33,7 @@ The 14-day challenge focuses on:
 - Day-09/ → SQL Analytics & Dashboards
 - Day-10/ → Performance Optimization
 - Day-11/ → Statistical Analysis & ML Prep
+- Day-12/ → MLflow Basics
 
 ## Dataset
 E-commerce Behavior Dataset (Kaggle)  
