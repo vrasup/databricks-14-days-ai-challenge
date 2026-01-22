@@ -35,6 +35,7 @@ The 14-day challenge focuses on:
 - Day-11/ → Statistical Analysis & ML Prep
 - Day-12/ → MLflow Basics
 - Day-13/ → Model Comparison & Feature Engineering
+- Day-14/ → AI-Powered Analytics: Genie & Mosaic AI
 
 ## Dataset
 E-commerce Behavior Dataset (Kaggle)  
